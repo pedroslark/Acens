@@ -2,8 +2,8 @@
 
 >A simple repository to upload and show my answers in Acens test.
 
->No license
+>No license.
 
->Each question is in it's own folder
+>Each question is in it's own folder.
 
->Everything was done in Python
+>Everything was made in Python
